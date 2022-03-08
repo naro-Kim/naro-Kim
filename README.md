@@ -23,7 +23,8 @@ Profile](http://mazassumnida.wtf/api/generate_badge?boj=naro_kim)](https://solve
 -
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-000000.svg?&style=for-the-badge&logo=CLion&logoColor=white)
-
+![Notion](https://img.shields.io/badge/Notion-ffffff.svg?&style=for-the-badge&logo=Notion&logoColor=black)
+![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white)
 
 
 :crystal_ball: SKILLS
