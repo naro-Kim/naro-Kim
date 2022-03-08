@@ -29,6 +29,8 @@ Profile](http://mazassumnida.wtf/api/generate_badge?boj=naro_kim)](https://solve
 :crystal_ball: SKILLS
 -
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black)
+![Cinema 4D](https://img.shields.io/badge/Cinema%204D-011A6A.svg?&style=for-the-badge&logo=Cinema%204D&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A.svg?&style=for-the-badge&logo=Blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-1D1D1D.svg?&style=for-the-badge&logo=Figma&logoColor=white)
 ![Sketch](https://img.shields.io/badge/Sketch-ea6c00.svg?&style=for-the-badge&logo=Sketch&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-F75eee.svg?&style=for-the-badge&logo=Adobe%20XD&logoColor=white)
@@ -36,8 +38,7 @@ Profile](http://mazassumnida.wtf/api/generate_badge?boj=naro_kim)](https://solve
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?&style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?&style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?&style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white)
-![Cinema 4D](https://img.shields.io/badge/Cinema%204D-011A6A.svg?&style=for-the-badge&logo=Cinema%204D&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A.svg?&style=for-the-badge&logo=Blender&logoColor=white)
+
 
 
 RESUME
