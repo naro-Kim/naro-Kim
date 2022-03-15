@@ -44,15 +44,24 @@ Profile](http://mazassumnida.wtf/api/generate_badge?boj=naro_kim)](https://solve
 
 RESUME
 -
-- Hongik Univ. Industrial Design Degree Graudation Exhibition Lead Committee - Web Design Team Leader
-- Samsung electronics X Hongik Univ. - 제품 산학 연구 참여
-- Hongik Univ. SiD Lab - 서비스 산학 연구 참여
-- Prazen AR - UX/UI design Intern 
+- 2021 Hongik Univ. Industrial Design Degree Graudation Exhibition Lead Committee - Web Design Team Leader
+- 2021 Industrial Educational Co-op - Intund 
+  - Service UX design, concept development
+  - Architecture design, web UI
+- 2020 Industrial Educational Co-op - Samsung electronics
+  - Mobile Accessory concept design, Flip exterior UI design  
+- 2020 Prazen AR - UX/UI design Intern
+  - Market research, Concept development
+  - Mobile Application design, Prototyping 
+- 2020 Industrial Educational Co-op - IMCRE
+  - User research, Concept development
+  - Mobile UI design  
 
 AWARD
 -
 - 2021 IF Design Talented Award Winner
 - 2020 티릴리 아이디어 해커톤 우수상
+- 2016 한양대 Art&3D프린팅 어워드  
 - 2016 창의융합디자인교육캠프 장려상
 
 
