@@ -61,19 +61,20 @@ AWARD
 -
 - 2021 IF Design Talented Award Winner
 - 2020 티릴리 아이디어 해커톤 우수상
-- 2016 한양대 Art&3D프린팅 어워드  
+- 2016 한양대 Art&3D프린팅 어워드 장려상
 - 2016 창의융합디자인교육캠프 장려상
 
+  
+👋 Hi, I’m Ahhyun Kim. (@naro-Kim)  
+👀 I’m interested in Front-end development, UX design, 3D graphics, and services.  
+🌱 I’m currently learning JS, C++  
 
-- 👋 Hi, I’m @naro-Kim
-- 👀 I’m interested in UX design & 3D graphics  & services 
-- 🌱 I’m currently learning JS, C++
-- 
-- 📫 Contact me : gracias9022@g.hongik.ac.kr
-- 
 
-See My work https://url.kr/k1dn4q
+📫 Contact me : gracias9022@g.hongik.ac.kr  
 
+
+See My project on [HERE](https://url.kr/k1dn4q)  
+More posts on [Blog](https://naroforme.tistory.com/)
 
 <!---
 naro-Kim/naro-Kim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
