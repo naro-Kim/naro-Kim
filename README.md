@@ -45,9 +45,15 @@ Profile](http://mazassumnida.wtf/api/generate_badge?boj=naro_kim)](https://solve
 RESUME
 -
 - Hongik Univ. Industrial Design Degree Graudation Exhibition Lead Committee - Web Design Team Leader
-- Samsung electronics X Hongik Univ. Product design - Student 산학 연구 참여
-- Hongik Univ. SiD Lab - Student 학부 연구생
+- Samsung electronics X Hongik Univ. - 제품 산학 연구 참여
+- Hongik Univ. SiD Lab - 서비스 산학 연구 참여
 - Prazen AR - UX/UI design Intern 
+
+AWARD
+-
+- 2021. IF Design Talented Award Winner
+- 2020. 티릴리 아이디어 해커톤 우수상
+- 2016. 창의융합디자인교육캠프 장려상
 
 
 - 👋 Hi, I’m @naro-Kim
