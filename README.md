@@ -73,7 +73,7 @@ AWARD
 📫 Contact me : gracias9022@g.hongik.ac.kr  
 
 
-See My project on [HERE](https://url.kr/k1dn4q)  
+See My project on [HERE](http://www.hongik-id-degreeshow.com/all-projects/?uid=140&mod=document&pageid=1)  
 More posts on [Blog](https://naroforme.tistory.com/)
 
 <!---
