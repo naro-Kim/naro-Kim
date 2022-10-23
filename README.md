@@ -59,6 +59,7 @@ RESUME
 
 AWARD
 -
+- 2022 한국관광공사 x 카카오 관광데이터 활용 공모전 장려상
 - 2021 IF Design Talented Award Winner
 - 2020 티릴리 아이디어 해커톤 우수상
 - 2016 한양대 Art&3D프린팅 어워드 장려상
