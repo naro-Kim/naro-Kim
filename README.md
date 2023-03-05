@@ -11,13 +11,19 @@ Profile](http://mazassumnida.wtf/api/generate_badge?boj=naro_kim)](https://solve
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=1d1d1d)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
 
 :book: STUDYING
 -
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=1d1d1d)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=1d1d1d)
+![React Query](https://img.shields.io/badge/ReactQuerys-FF4154.svg?&style=for-the-badge&logo=ReactQuery&logoColor=white)
+![styled-components](https://img.shields.io/badge/styledComponents-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4.svg?&style=for-the-badge&logo=TailwindCSS&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
-
+![Three.js](https://img.shields.io/badge/Three.js-000000.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
 :wrench: TOOLS
 -
@@ -42,7 +48,7 @@ Profile](http://mazassumnida.wtf/api/generate_badge?boj=naro_kim)](https://solve
 
 
 
-RESUME
+RESUME 
 -
 - 2021 Hongik Univ. Industrial Design Degree Graudation Exhibition Lead Committee - Web Design Team Leader
 - 2021 Industrial Educational Co-op - Intund 
@@ -60,6 +66,7 @@ RESUME
 AWARD
 -
 - 2022 한국관광공사 x 카카오 관광데이터 활용 공모전 장려상
+- 2022 홍익대학교 경영대학 창업 아이디어 경진대회 1위
 - 2021 IF Design Talented Award Winner
 - 2020 티릴리 아이디어 해커톤 우수상
 - 2016 한양대 Art&3D프린팅 어워드 장려상
@@ -68,13 +75,13 @@ AWARD
   
 👋 Hi, I’m Ahhyun Kim. (@naro-Kim)  
 👀 I’m interested in Front-end development, UX design, 3D graphics, and services.  
-🌱 I’m currently learning JS, C++  
+🌱 I’m currently learning JS.
 
 
 📫 Contact me : gracias9022@g.hongik.ac.kr  
 
 
-See My project on [HERE](http://www.hongik-id-degreeshow.com/all-projects/?uid=140&mod=document&pageid=1)  
+See My project on [HERE](http://hongik-id-degreeshow2021.com/all-projects/?uid=140&mod=document&pageid=1)  
 More posts on [Blog](https://naroforme.tistory.com/)
 
 <!---
