@@ -81,8 +81,8 @@ AWARD
 📫 Contact me : gracias9022@g.hongik.ac.kr  
 
 
-See My project on [HERE](http://hongik-id-degreeshow2021.com/all-projects/?uid=140&mod=document&pageid=1)  
-More posts on [Blog](https://naroforme.tistory.com/)
+See My project on [HERE](https://naro-kim.notion.site/naro-Kim-c0a677f908584767aca24112bd87d940)  
+More posts on [Velog](https://velog.io/@naro-kim)
 
 <!---
 naro-Kim/naro-Kim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
