@@ -7,8 +7,7 @@
 Profile](http://mazassumnida.wtf/api/generate_badge?boj=naro_kim)](https://solved.ac/naro_kim)
 
 👋 Hi, I’m Ahhyun Kim. (@naro-Kim)  
-👀 I’m interested in Front-end development, UX design, 3D graphics, and services.  
-🌱 I’m  better HX. Human eXperience
+👀 I’m interested in Human experience. Currently studying Web 3D development.
 
 📫 email : gracias9022@gmail.com
 
