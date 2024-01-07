@@ -9,7 +9,7 @@ Profile](http://mazassumnida.wtf/api/generate_badge?boj=naro_kim)](https://solve
 
 “Making Awesome Product!”
 
-안녕하세요. **사용자 경험 개발자(User Experience Engineer)**를 꿈꾸는 김아현입니다. 서비스를 관통하는 사용자 경험 문제 해결로 [**졸업전시 플랫폼 개발**](http://hongik-id-degreeshow2021.com/)을 주도해 **총 1,000+명의 사용자**를 확보했으며 **매년 약 100,000+ 명의 방문자**를 확보했습니다.
+안녕하세요. **사용자 경험 개발자(User Experience Engineer)** 를 꿈꾸는 김아현입니다. 서비스를 관통하는 사용자 경험 문제 해결로 [**졸업전시 플랫폼 개발**](http://hongik-id-degreeshow2021.com/)을 주도해 **총 1,000+명의 사용자**를 확보했으며 **매년 약 100,000+ 명의 방문자**를 확보했습니다.
 
 빠르게 변화하는 개발 생태계에서 기술을 활용해 사용자에게 더 나은 경험을 제공하기 위해 고민하고 있습니다. 또한 기술을 공부하며 얻은 지식을 [**블로그**](https://velog.io/@naro-kim/posts)를 통해 공유하고 팀원들과 함께 성장하기 위한 스터디를 운영합니다.
 
