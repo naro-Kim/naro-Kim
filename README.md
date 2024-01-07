@@ -6,9 +6,15 @@
 [![Solved.ac
 Profile](http://mazassumnida.wtf/api/generate_badge?boj=naro_kim)](https://solved.ac/naro_kim)
 
-👋 Hi, I’m Ahhyun Kim. (@naro-Kim)  
-👀 I’m interested in Human experience. Currently studying Web 3D development.
 
+“Making Awesome Product!”
+
+안녕하세요. **사용자 경험 개발자(User Experience Engineer)**를 꿈꾸는 김아현입니다. 서비스를 관통하는 사용자 경험 문제 해결로 [**졸업전시 플랫폼 개발**](http://hongik-id-degreeshow2021.com/)을 주도해 **총 1,000+명의 사용자**를 확보했으며 **매년 약 100,000+ 명의 방문자**를 확보했습니다.
+
+빠르게 변화하는 개발 생태계에서 기술을 활용해 사용자에게 더 나은 경험을 제공하기 위해 고민하고 있습니다. 또한 기술을 공부하며 얻은 지식을 [**블로그**](https://velog.io/@naro-kim/posts)를 통해 공유하고 팀원들과 함께 성장하기 위한 스터디를 운영합니다.
+
+👋 Hi, I’m Ahhyun Kim. (@naro-Kim)  
+👀 I’m interested in Human experience. Currently studying Web 3D development.   
 📫 email : gracias9022@gmail.com
 
 :floppy_disk: Skills
@@ -41,6 +47,7 @@ Profile](http://mazassumnida.wtf/api/generate_badge?boj=naro_kim)](https://solve
 
 Experiences 
 -
+- 2023 알파코 X GDSC 연합 해커톤 '나무톤' Design, Web Front-End
 - 2023 기업형 IT 연합동아리 YAPP 22nd - Web Front-End
 - 2022 홍익대학교 교내 IT 연합동아리 멋쟁이사자처럼 10기 - Web Front-End
 - 2021 Hongik Univ. Industrial Design Degree Graudation Exhibition Lead Committee - Web Design Team Leader
@@ -64,9 +71,11 @@ AWARD
 - 2016 한양대 Art&3D프린팅 어워드 장려상
 - 2016 창의융합디자인교육캠프 장려상
 
-See My resume on [HERE](https://github.com/naro-Kim/naro-Kim/files/13599657/default.pdf) 
+See My resume on [HERE](https://file.notion.so/f/f/a9c81c00-b4eb-48e8-8eaa-673f47419327/b19b3716-6417-48d2-b682-97d1be0af779/%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%8C%E1%85%A1_%E1%84%8C%E1%85%AE%E1%86%BC%E1%84%89%E1%85%B5%E1%86%B7_%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A1_%E1%84%80%E1%85%B5%E1%86%B7%E1%84%8B%E1%85%A1%E1%84%92%E1%85%A7%E1%86%AB%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%82%E1%85%B5%E1%84%83%E1%85%A1.pdf?id=4087d859-e727-4476-801b-fc3f541dc96c&table=block&spaceId=a9c81c00-b4eb-48e8-8eaa-673f47419327&expirationTimestamp=1704729600000&signature=osPrRmOI2lx3cD90bzkhhtkdhhSv6yzHZFuvi-I7C2M&downloadName=%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%8C%E1%85%A1+%E1%84%8C%E1%85%AE%E1%86%BC%E1%84%89%E1%85%B5%E1%86%B7+%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A1+%E1%84%80%E1%85%B5%E1%86%B7%E1%84%8B%E1%85%A1%E1%84%92%E1%85%A7%E1%86%AB%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%82%E1%85%B5%E1%84%83%E1%85%A1.pdf) 
 
 More posts on [Velog](https://velog.io/@naro-kim)
+
+Portfolio [Notion](https://ahkkim.notion.site/naro-Kim-45a976f147d541018b526390517b6aff?pvs=4)
 
 <!---
 naro-Kim/naro-Kim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
