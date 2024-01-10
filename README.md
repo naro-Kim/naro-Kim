@@ -64,6 +64,7 @@ Experiences
 
 AWARD
 -
+- 2023 항해플러스 코딩 육상 대회 최우수상
 - 2022 한국관광공사 x 카카오 관광데이터 활용 공모전 장려상
 - 2022 홍익대학교 경영대학 창업 아이디어 경진대회 1위
 - 2021 IF Design Talented Award Winner
