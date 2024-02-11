@@ -65,7 +65,7 @@ AWARD
 - 2016 한양대 Art&3D프린팅 어워드 장려상
 - 2016 창의융합디자인교육캠프 장려상
 
-See My resume on [HERE](https://github.com/naro-Kim/naro-Kim/files/14149539/_.pdf)
+See My resume on [HERE](https://www.figma.com/file/NePScyaEBbFIJsTcuzcAC4/Portfolio?type=design&node-id=88%3A150&mode=design&t=8jfCl9b07lxYfrBS-1) (2024.02.12)
 
 More posts on [Velog](https://velog.io/@naro-kim)
 
