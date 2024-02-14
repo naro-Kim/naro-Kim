@@ -10,7 +10,7 @@ Profile](http://mazassumnida.wtf/api/generate_badge?boj=naro_kim)](https://solve
 👀 I’m interested in Human experience. Currently studying Web 3D development.   
 📫 email : gracias9022@gmail.com
 
-[Resume](https://www.figma.com/file/NePScyaEBbFIJsTcuzcAC4/Portfolio?type=design&node-id=211-926&mode=design&t=cbsFJd8rIdPbsfTU-4)
+[Resume](https://www.figma.com/file/NePScyaEBbFIJsTcuzcAC4/Portfolio?type=design&node-id=255-713&mode=design&t=AlRn58JxOB9ODhwG-4)
 
 [Velog](https://velog.io/@naro-kim)
 
