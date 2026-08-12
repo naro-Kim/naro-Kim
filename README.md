@@ -1,10 +1,12 @@
+[이력서.pdf](https://github.com/user-attachments/files/30964809/default.pdf)
 # 김아현 · Frontend Engineer
 
 미디어 재생·업로드·결제·인증처럼 실패 비용이 큰 사용자 여정을 안정적인 Web architecture로 전환해왔습니다.
 
 요구사항을 화면으로 옮기는 데 그치지 않고, **문제 발견과 제안부터 설계·구현·배포·QA·운영 대응까지 end-to-end로 책임지는 개발자**입니다. Web Core와 Media Platform 영역에 관심이 있습니다.
 
-[Email](mailto:gracias9022@gmail.com) · [Blog](https://velog.io/@naro-kim) 
+[Email](mailto:gracias9022@gmail.com) · [Blog](https://velog.io/@naro-kim) · [Resume](https://github.com/user-attachments/files/30964813/default.pdf)
+
 
 ## Experience
 
@@ -35,13 +37,6 @@ Next.js와 React Three Fiber로 구현한 interactive 3D web입니다. Figma·Bl
 ### [Trip Collection Board](https://github.com/naro-Kim/trip-collection-board) · In progress
 
 소규모 그룹이 여행 URL을 수집하고 비교하는 polyglot monorepo입니다. Next.js App Router, Go, Python worker, PostgreSQL, Redis, NATS, Docker Compose 기반으로 vertical slice를 구축하고 있습니다.
- 
-Experiences 
--
-- 2023 알파코 X GDSC 연합 해커톤 '나무톤' Design, Web Front-End
-- 2023 기업형 IT 연합동아리 YAPP 22nd - Web Front-End
-- 2022 홍익대학교 교내 IT 연합동아리 멋쟁이사자처럼 10기 - Web Front-End
-- 2021 Hongik Univ. Industrial Design Degree Graudation Exhibition Lead Committee - Web Team Leader 
 
 AWARD
 -
@@ -51,8 +46,11 @@ AWARD
 - 2021 IF Design Talented Award Winner
 - 2020 티릴리 아이디어 해커톤 우수상
 - 2016 한양대 Art&3D프린팅 어워드 장려상
-- 2016 창의융합디자인교육캠프 장려상
+- 2016 창의융합디자인교육캠프 장려상 
 
-[Resume](https://github.com/naro-Kim/naro-Kim/files/14318826/default.pdf)  
-
-More posts on [Velog](https://velog.io/@naro-kim)
+ETC
+-
+- 2023 알파코 X GDSC 연합 해커톤 '나무톤' Design, Web Front-End
+- 2023 기업형 IT 연합동아리 YAPP 22nd - Web Front-End
+- 2022 홍익대학교 교내 IT 연합동아리 멋쟁이사자처럼 10기 - Web Front-End
+- 2021 Hongik Univ. Industrial Design Degree Graudation Exhibition Lead Committee - Web Team Leader 
