@@ -1,4 +1,3 @@
-[이력서.pdf](https://github.com/user-attachments/files/30964809/default.pdf)
 # 김아현 · Frontend Engineer
 
 미디어 재생·업로드·결제·인증처럼 실패 비용이 큰 사용자 여정을 안정적인 Web architecture로 전환해왔습니다.
