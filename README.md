@@ -1,59 +1,47 @@
-# KIM AH HYUN
+# 김아현 · Frontend Engineer
 
-### About me
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naro-Kim&hide=stars&show_icons=true&title_color=2e8bf7&bg_color=161b22&border_color=1d1d1d&icon_color=2e8bf7&text_color=fefefe)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac
-Profile](http://mazassumnida.wtf/api/generate_badge?boj=naro_kim)](https://solved.ac/naro_kim)
+미디어 재생·업로드·결제·인증처럼 실패 비용이 큰 사용자 여정을 안정적인 Web architecture로 전환해왔습니다.
 
-👋 Hi, I’m Ahhyun Kim. (@naro-Kim)  
-👀 I’m interested in Human experience. Currently studying Web 3D development.   
-📫 email : gracias9022@gmail.com
+요구사항을 화면으로 옮기는 데 그치지 않고, **문제 발견과 제안부터 설계·구현·배포·QA·운영 대응까지 end-to-end로 책임지는 개발자**입니다. Web Core와 Media Platform 영역에 관심이 있습니다.
 
-:floppy_disk: Skills
--
-#### Front-End
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=1d1d1d)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=1d1d1d)
-![React Query](https://img.shields.io/badge/ReactQuerys-FF4154.svg?&style=for-the-badge&logo=ReactQuery&logoColor=white)
-![Styled-components](https://img.shields.io/badge/styledComponents-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4.svg?&style=for-the-badge&logo=TailwindCSS&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
+[Email](mailto:gracias9022@gmail.com) · [Blog](https://velog.io/@naro-kim) 
 
-#### Design
-![Sketch](https://img.shields.io/badge/Sketch-ea6c00.svg?&style=for-the-badge&logo=Sketch&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-F75eee.svg?&style=for-the-badge&logo=Adobe%20XD&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-1D1D1D.svg?&style=for-the-badge&logo=Figma&logoColor=white)
-![Cinema 4D](https://img.shields.io/badge/Cinema%204D-011A6A.svg?&style=for-the-badge&logo=Cinema%204D&logoColor=white)
-![Blender3D](https://img.shields.io/badge/Blender_3D-F5792A.svg?&style=for-the-badge&logo=Blender&logoColor=white)
+## Experience
 
-#### Etc
-![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000058.svg?&style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?&style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?&style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?&style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white)
+### Gaudio Lab
+
+`2024.03–2026.06 · Frontend Engineer · 3년차`
 
 
+> - Pages Router 기반 서비스를 App Router로 점진 전환하고 Server/Client boundary를 재설계해 공통 레이아웃 bundle을 **245 kB에서 88 kB로 64% 줄였습니다.**
+> - 2시간 이상 미디어와 최대 10개 HLS audio track을 제어하는 multitrack player를 설계·구현했습니다. 장시간 재생에서 누적되는 A/V sync 오차를 입력 resource와 media workflow까지 추적해 해결했습니다.
+> - Gaudio Studio의 유료 기능인 Pricing·credit·Upload/Payment funnel을 구현하고 결제 실패 추적과 모니터링, 사용자 복구 흐름을 운영했습니다.
+> - 사내 Design System `Coretone`을 제안하고 token architecture, Figma plugin, React package, AWS CodeArtifact 배포까지 단독으로 구축했습니다.
+> - API 고객용 Developers Console의 SSO, 가입·초대, project·API key·usage dashboard와 server-side authorization을 구현했습니다.
+ 
+### 대한조선학회 조선용어사전
+
+`2025.07–2026.01 · Frontend Engineer · 외부 프로젝트`
+
+> 요구사항 분석·기획·UI design부터 Next.js 구현과 Frontend CI/CD까지 담당해 서비스를 출시하고, 이후 editor·검수·승인·관리자 기능을 확장했습니다.
+
+- [운영 서비스](https://terms-snak.or.kr/content)
+
+## Projects
+### [Snowy Window](https://github.com/naro-Kim/snowy-window)
+
+Next.js와 React Three Fiber로 구현한 interactive 3D web입니다. Figma·Blender 작업부터 mobile interaction과 배포까지 진행했습니다.
+
+### [Trip Collection Board](https://github.com/naro-Kim/trip-collection-board) · In progress
+
+소규모 그룹이 여행 URL을 수집하고 비교하는 polyglot monorepo입니다. Next.js App Router, Go, Python worker, PostgreSQL, Redis, NATS, Docker Compose 기반으로 vertical slice를 구축하고 있습니다.
+ 
 Experiences 
 -
 - 2023 알파코 X GDSC 연합 해커톤 '나무톤' Design, Web Front-End
 - 2023 기업형 IT 연합동아리 YAPP 22nd - Web Front-End
 - 2022 홍익대학교 교내 IT 연합동아리 멋쟁이사자처럼 10기 - Web Front-End
-- 2021 Hongik Univ. Industrial Design Degree Graudation Exhibition Lead Committee - Web Design Team Leader
-- 2021 Industrial Educational Co-op - Intund 
-  - Service UX design, concept development
-  - Architecture design, web UI
-- 2020 Industrial Educational Co-op - Samsung electronics
-  - Mobile Accessory concept design, Flip exterior UI design  
-- 2020 Prazen AR - UX/UI design Intern
-  - Market research, Concept development
-  - Mobile Application design, AR Prototyping 
-- 2020 Industrial Educational Co-op - IMCRE
-  - User research, Concept UI design  
+- 2021 Hongik Univ. Industrial Design Degree Graudation Exhibition Lead Committee - Web Team Leader 
 
 AWARD
 -
